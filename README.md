@@ -65,3 +65,7 @@ Notas para medir direito:
   nesses cenários (o script avisa o número de execuções).
 - Os tempos absolutos dependem da máquina; o que deve se reproduzir é **quem vence cada cenário** e a
   **ordem de grandeza** das razões. A máquina usada está registrada no topo de cada arquivo em `resultados/`.
+
+## Autores
+
+Igor Costa | Moesio
